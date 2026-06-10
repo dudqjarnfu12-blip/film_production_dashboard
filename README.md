@@ -29,16 +29,12 @@ streamlit run app.py
 
 📊 Sample Data
 The app includes 5 famous movies as sample data:
-Titanic
-Avatar
-The Godfather
-Parasite
-The Dark Knight
+Titanic / Avatar / The Godfather / Parasite / The Dark Knight
 
 👤 Author
 Name: Lee Youngbeom
-Major: Film
-University: Sungkyunkwan University
+ /  Major: Film
+ / University: Sungkyunkwan University
 
 Install the required libraries:
 
