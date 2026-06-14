@@ -82,3 +82,17 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+Run the Streamlit app:
+streamlit run app.py
+
+📌 Project Purpose
+The purpose of this project is to explore how film production data can be analyzed visually.
+This dashboard helps users compare movie budgets and revenues, understand genre distribution, evaluate ROI, and identify financially successful films.
+⚠️ Note on Data
+The movie budget and revenue values are approximate sample data used for educational dashboard purposes.
+The main goal of this project is to practice building an interactive data dashboard related to film production.
+👤 Author
+Name: Lee Youngbeom / 이영범
+Major: Film
+University: Sungkyunkwan University
